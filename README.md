@@ -36,11 +36,6 @@ Atualmente, estou aberto para novos desafios como **desenvolvedor front-end** ou
 ## 🌍 Vamos conversar?
 
 📧 **marcellomellodev@gmail.com**  
-📱 **+33 6 61 43 59 95**  
 📍 Baseado na Europa (🇫🇷) com atuação também no Brasil (🇧🇷)
 
 ---
-
-<p align="center">
-  <i>"Transformar ideias em sites de alto impacto é o que me move."</i>
-</p>
