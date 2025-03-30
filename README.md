@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Desenvolvedor Web | Criação de Sites Profissionais</b> <br />
-  <i>Transformando ideias em experiências digitais</i>
+
 </p>
 
 ---
@@ -26,6 +26,7 @@ Tenho interesse em colaborar com empresas que valorizam boas práticas, metodolo
 ## 📈 Estou aprendendo...
 
 - Inglês técnico para desenvolvimento internacional
+- Francês Itermediario
 - Práticas avançadas de SEO e acessibilidade (a11y)
 - Modelagem de negócios digitais e gestão de projetos
 
